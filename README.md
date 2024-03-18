@@ -30,5 +30,4 @@ Deliverables:
   * file : assignment.pdf
 - [x] A trained Private GPT model.
   * trained GPT model: ./gpt_pretrained
-  * download and paste this file in ./gpt_pretrained https://www.dropbox.com/s/oop975evqa5gyql/pytorch_model.bin?dl=0
 
